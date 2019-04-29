@@ -1,0 +1,20 @@
+ADXL335           - £4.25
+ATMEGA32U4        - £4.00
+MIC5219 3.3V      - £1.16
+MCP73831T-2ACI/OT - £0.47
+SWITCH            - £1.36
+WS2812B (X25)     - £3.75
+
+### PCB ###
+
+50mm = 1.97"
+
+90mm = 3.55"
+
+1.97" X 3.55" = 7"
+
+$5 per square inch for 3, $1 per square inch for 22.
+
+3 = $35 / 3 = $11.70 = £7.51 per board.
+
+22 = $7 = £4.50

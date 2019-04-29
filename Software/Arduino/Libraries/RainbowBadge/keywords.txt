@@ -1,0 +1,29 @@
+#######################################
+# Syntax Colouring Map For RainbowBadge
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RainbowBadge_LedMatrix KEYWORD1 RainbowBadge_LedMatrix
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin			KEYWORD2
+show			KEYWORD2
+setPixelColour	KEYWORD2
+RGBToColour		KEYWORD2
+getPixelColour	KEYWORD2
+numPixels		KEYWORD2
+setBrightness	KEYWORD2
+getBrightness	KEYWORD2
+clear			KEYWORD2
+canShow			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

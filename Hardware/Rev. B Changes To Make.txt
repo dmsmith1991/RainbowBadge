@@ -1,0 +1,12 @@
+### PCB Changes ###
+1) Fix slide switch (ground opposite throw and float current throw) - DONE
+2) Silk screen marking area to indicate LiPo charger enabled (charge controller PROG resistor fitted so not compatible with other battery types) - DONE
+3) Voltage range silk screen marking near JST connector (3.7V - 4.5V ???) - DONE
+4) Silk screen warning to only use LiPo cells of at least 500mAh capacity (due to 500mA charge current) - DONE
+5) Ensure as many floating parts of the ground plane are tied to ground, remove if not possible - DONE
+6) Add power status LED (green, powered from 3.3V rail, move D13 LED to under ADXL335, power LED takes it's place) - DONE
+
+### BOM Changes ###
+1) All caps to max. voltage rating for ceramic dielectric.
+2) Change to a 500mA trip current fuse, with 250mA holding current (Littelfuse series) (in some cases badge will need to be disconnected from USB to reset fuse).
+3) Change charge controller PROG resistor to 2k (500mA charging current).
